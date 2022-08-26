@@ -4,7 +4,7 @@
 
 ## Languages
 ![SQL](https://img.shields.io/badge/-SQL-green)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd801&color=050505)
+![Python](https://img.shields.io/badge/-Python-green)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&color=050505)
 
 <!---
