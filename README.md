@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RedEkim
 - 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning python, sql.
 
-## Languages
+## 🌱 Languages
 ![SQL](https://img.shields.io/badge/-SQL-green)
 ![Python](https://img.shields.io/badge/-Python-green)
 ![Markdown](https://img.shields.io/badge/-Markdown-green)
