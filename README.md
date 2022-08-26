@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @RedEkim
-- 👀 I’m interested in data analysis.
+Hello 👋 I’m Junior Data Analyst!
 
 ## 🌱 Languages
 ![SQL](https://img.shields.io/badge/-SQL-green)
