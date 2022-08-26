@@ -1,4 +1,4 @@
-Hello 👋 I’m Junior Data Analyst!
+Hello 👋 I’m Data Analyst!
 
 ## 🌱 Languages
 ![SQL](https://img.shields.io/badge/-SQL-green)
