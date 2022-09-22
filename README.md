@@ -8,7 +8,7 @@ Hello 👋 I’m Data Analyst!
 ## 📣 Contacts
 TG: **[@redekim](https://t.me/redekim)**
 
-email: **[mikhail6886](mikhail6886@yandex.ru)**
+email: **mikhail6886@yandex.ru**
 <!---
 RedEkim/RedEkim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
