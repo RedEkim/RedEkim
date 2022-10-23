@@ -10,6 +10,5 @@
 * [Статистика]()
 
 ## 📣 Контакты
-**TG:** **[@redekim](https://t.me/redekim)**
-
-**email:** **mikhail6886@yandex.ru**
+* TG: [@redekim](https://t.me/redekim)
+* email: mikhail6886@yandex.ru
