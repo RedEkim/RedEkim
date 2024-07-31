@@ -2,8 +2,6 @@
 
 My name is Michael.
 
-I'm Front-end developer.
-
 ## 🌱 Stack of technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green)
 ![CSS](https://img.shields.io/badge/-CSS-green)
